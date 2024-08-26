@@ -5,6 +5,12 @@ import java.io.FileReader;
 import java.io.IOException;
 import com.mycompany.view.Menu;
 
+/**
+ *
+ * @author Carlos Giovane Neu Nogueira
+ */
+
+
 public class main {
 
     //ADICIONA O FUNCIONARIO
