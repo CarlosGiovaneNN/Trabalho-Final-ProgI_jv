@@ -36,10 +36,10 @@ public class Menu extends javax.swing.JFrame {
         SearchTeam = new javax.swing.JButton();
         Reset = new javax.swing.JButton();
         Leave = new javax.swing.JButton();
-        jLabel3 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
+        setMinimumSize(new java.awt.Dimension(172, 298));
+        setPreferredSize(new java.awt.Dimension(172, 298));
 
         SimulateRound.setText("Simulate Round");
         SimulateRound.addActionListener(new java.awt.event.ActionListener() {
@@ -47,7 +47,6 @@ public class Menu extends javax.swing.JFrame {
                 SimulateRoundActionPerformed(evt);
             }
         });
-        getContentPane().add(SimulateRound, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 250, -1, -1));
 
         SimulateSeason.setText("Simulate Season");
         SimulateSeason.addActionListener(new java.awt.event.ActionListener() {
@@ -55,7 +54,6 @@ public class Menu extends javax.swing.JFrame {
                 SimulateSeasonActionPerformed(evt);
             }
         });
-        getContentPane().add(SimulateSeason, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 290, -1, -1));
 
         ShowTeam.setText("Show Team");
         ShowTeam.addActionListener(new java.awt.event.ActionListener() {
@@ -63,7 +61,6 @@ public class Menu extends javax.swing.JFrame {
                 ShowTeamActionPerformed(evt);
             }
         });
-        getContentPane().add(ShowTeam, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 250, -1, -1));
 
         SearchTeam.setText("Search Team");
         SearchTeam.addActionListener(new java.awt.event.ActionListener() {
@@ -71,7 +68,6 @@ public class Menu extends javax.swing.JFrame {
                 SearchTeamActionPerformed(evt);
             }
         });
-        getContentPane().add(SearchTeam, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 290, -1, -1));
 
         Reset.setText("Reset");
         Reset.addActionListener(new java.awt.event.ActionListener() {
@@ -79,7 +75,6 @@ public class Menu extends javax.swing.JFrame {
                 ResetActionPerformed(evt);
             }
         });
-        getContentPane().add(Reset, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 250, -1, -1));
 
         Leave.setText("Leave");
         Leave.addActionListener(new java.awt.event.ActionListener() {
@@ -87,12 +82,39 @@ public class Menu extends javax.swing.JFrame {
                 LeaveActionPerformed(evt);
             }
         });
-        getContentPane().add(Leave, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 290, -1, -1));
 
-        jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/Search620x348.png"))); // NOI18N
-        jLabel3.setText("jLabel3");
-        jLabel3.setPreferredSize(new java.awt.Dimension(620, 348));
-        getContentPane().add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, -1, -1));
+        javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
+        getContentPane().setLayout(layout);
+        layout.setHorizontalGroup(
+            layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(layout.createSequentialGroup()
+                .addGap(17, 17, 17)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                    .addComponent(SimulateRound, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addComponent(SimulateSeason, javax.swing.GroupLayout.PREFERRED_SIZE, 0, Short.MAX_VALUE)
+                    .addComponent(ShowTeam, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addComponent(SearchTeam, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addComponent(Reset, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addComponent(Leave, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                .addContainerGap(28, Short.MAX_VALUE))
+        );
+        layout.setVerticalGroup(
+            layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(layout.createSequentialGroup()
+                .addGap(29, 29, 29)
+                .addComponent(SimulateRound)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                .addComponent(SimulateSeason)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                .addComponent(ShowTeam)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                .addComponent(SearchTeam)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                .addComponent(Reset)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                .addComponent(Leave)
+                .addContainerGap(19, Short.MAX_VALUE))
+        );
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
@@ -151,6 +173,5 @@ public class Menu extends javax.swing.JFrame {
     private javax.swing.JButton ShowTeam;
     private javax.swing.JButton SimulateRound;
     private javax.swing.JButton SimulateSeason;
-    private javax.swing.JLabel jLabel3;
     // End of variables declaration//GEN-END:variables
 }
