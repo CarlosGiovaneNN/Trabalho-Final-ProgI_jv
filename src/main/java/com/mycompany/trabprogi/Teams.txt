@@ -1,0 +1,300 @@
+Team:Arsenal
+Founded:1886
+Formation:4-3-3 
+Player:David Raya;3;22;GoalKeeper
+Player:Gabriel Magalhões;4;6;Defender 
+Player:Ben White;5;4;Defender
+Player:Willian Saliba;6;2;Defender
+Player:Oleksandr Kinchenko;7;35;Defender
+Player:Martin Odegaard;8;8;Midfield
+Player:Kai Havertz;9;29;Midfield
+Player:Declan Rice;10;41;Midfield
+Player:Bukayo Saka;11;7;Forwards
+Player:Gabriel Martinelli;12;11;Forward 
+Player:Leandro Trossard;14;19;Forward
+Coach:Mikel Arteta;15
+Team:Aston Villa
+Founded:1874
+Formation:4-4-2 
+Player:Emiliano Martínez;17;1;GoalKeeper
+Player:Ezri Konsa;18;4;Defender
+Player:Lucas Digne;19;12;Defender
+Player:Pau Torres;20;14;Defender
+Player:Matty Cash;21;2;Defender
+Player:Douglas Luiz;22;6;Midfield
+Player:John McGinn;23;7;Midfield
+Player:Leon Bailey;24;31;Midfield
+Player:Youri Tielemans;25;8;Midfield
+Player:Ollie Watkins;26;11;Forward
+Player:Moussa Diaby;27;19;Forward
+Coach: Unai Emery;28
+Team:Liverpool
+Founded:1892
+Formation:4-3-3
+Player:Alisson Becker;31;1;GoalKeeper
+Player:van Dijk;32;4;Defender
+Player:Ibrahima Konaté;33;5;Defender
+Player:Joe Gomez;34;2;Defender
+Player:Alexander Arnold;35;66;Defender
+Player:Harvey Elliot;36;19;Midfield
+Player:Mac Allister;37;10;Midfield
+Player:Dominik Szoboszlai;38;8;Midfield
+Player:Mohamed Salah;39;11;Forward
+Player:Cody Gakpo;40;18;Forward
+Player:Luis Díaz;41;7;Forward
+Coach:Jurgen Klopp;42
+Team:Manchester City
+Founded:1880
+Formation:4-5-1 
+Player:Ederson;45;31;GoalKeeper
+Player:Kyle Walker;46;2;Defender
+Player:Rúben Dias;47;3;Defender
+Player:John Stones;48;5;Defender
+Player:Manuel Akanji;49;25;Defender
+Player:Rodri;50;16;Midfield
+Player:Bernardo Silva;51;20;Midfield
+Player:Phil Foden;52;47;Midfield
+Player:Kevin De Bruyne;53;17;Midfield
+Player:Jack Grealish;54;10;Midfield
+Player:Erling Haaland;55;9;Forward
+Coach:Guardiola;56
+Team:Manchester United
+Founded:1878
+Formation:4-3-3 
+Player:André Onana;59;24;GoalKeeper 
+Player:Harry Magueire;60;5;Defender
+Player:Diogo Dalot;61;20;Defender
+Player:Wan Bissaka;62;29;Defender
+Player:Jonny Evans;63;35;Defender
+Player:Bruno Fernandes;64;8;Midfield
+Player:Casemiro;65;18;Midfield
+Player:scott McTominay;66;39;Midfield
+Player:Rashford;67;10;Forward
+Player:Garnacho;68;17;Forward
+Player:Antony;69;21;Forward
+Coach:Erik ten Hag;70
+Team:Everton
+Founded:1878
+Formation:4-3-3
+Player:Jordan Pickford;73;1;GoalKeeper 
+Player:James Tarkowski;74;6;Defender
+Player:Vitalli Mykolenko;75;19;Defender
+Player:Jarrad Branthwaite;76;32;Defender
+Player:Ashley Young;77;18;Defender
+Player:Amadou Onana;78;8;Midfield
+Player:Abdoulaye Doucouré;79;16;Midfield
+Player:James Garner;80;37;Midfield
+Player:McNeil;81;7;Forward
+Player:Calvert Lewin;82;9;Forward
+Player:Beto;83;14;Forward
+Coach:Sean Dyche;84
+Team:West Ham United
+Founded:1895
+Formation:3-5-2
+Player:Alphonse Areola;87;32;GoalKeeper 
+Player:Kurt Zouma;88;4;Defender
+Player:Vladimir Coufal;89;5;Defender
+Player:Emerson;90;33;Defender
+Player:Mohammed Kudus;91;14;Midfield
+Player:Paquetá;92;10;Midfield
+Player:Tomás Soucek;93;28;Midfield
+Player:Edson Álvarez;94;19;Midfield
+Player:Ward Prowse;95;7;Midfield
+Player:Jarrod Bowen;96;20;Forward
+Player:Michail Antonio;97;9;Forward
+Coach:David Moyes;98
+Team:Chelsea
+Founded:1905
+Formation:3-5-2
+Player:Petrovic;101;28;GoalKeeper
+Player:Thiago Silva;102;6;Defender
+Player:Axel Disasi;103;2;Defender
+Player:Malo Gusto;104;27;Defender
+Player:Mudryk;105;10;Midfield
+Player:Conor Gallagher;106;23;Midfield
+Player:Cole Palmer;107;20;Midfield
+Player:Caicedo;108;25;Midfield
+Player:Enzo Fernández;109;8;Midfield
+Player:Nicolas Jackson;110;15;Forward
+Player:Raheem Sterling;111;7;Forward
+Coach:Mauricio Pochettino;112
+Team:Tottenham Hotspur
+Founded:1882
+Formation:4-3-3
+Player:Vicario;115;13;GoalKeeper
+Player:Cristian Romero;116;17;Defender
+Player:Van de Ven;117;37;Defender
+Player:Udogie;118;38;Defender
+Player:Porro;119;23;Defender
+Player:Hojbjerg;120;5;Midfield
+Player:Sarr;121;29;Midfield
+Player:Kulusevski;122;21;Midfield
+Player:Son;123;7;Forward
+Player:Richarlison;124;9;Forward
+Player:Brennan Johnson;125;22;Forward
+Coach:Ange Postecoglou;126
+Team:Nottingham Forest
+Founded:1865
+Formation:3-4-3
+Player:Turner;129;1;GoalKeeper
+Player:Neco Williams;130;7;Defender
+Player:Toffolo;131;15;Defender
+Player:Murilo;132;40;Defender
+Player:Domínguez;133;16;Midfield
+Player:Gibbs White;134;10;Midfield
+Player:Yates;135;22;Midfield
+Player:Danilo;136;28;Midfield
+Player:Chris Wood;137;11;Forward
+Player:Anthony Elanga;138;21;Forward
+Player:Hudson Odoi;139;14;Forward
+Coach:Nuno Espírito Santo;140
+Team:Wolverhampton Wanderers
+Founded:1877
+Formation:3-5-1-1
+Player:José Sá;143;1;GoalKeeper 
+Player:Toti Gomes;144;24;Defender
+Player:Matt Doherty;145;2;Defender
+Player:Ait Nouri;146;3;Defender
+Player:Nélson Semedo;147;22;Defender
+Player:Maximilian Kilman;148;23;Defender
+Player:João Gomes;149;8;Midfield
+Player:Mario Lemina;150;5;Midfield
+Player:Pablo Sarabia;151;6;Midfield
+Player:Hee Chan;152;11;Forward
+Player:Matheus Cunha;153;12;Forward
+Coach:Gary O'Neil;154
+Team:Sheffield United
+Founded:1889
+Formation:4-4-2
+Player:Foderingham;157;18;GoalKeeper
+Player:Ahmedhodzic;158;15;Defender
+Player:Jack Robinson;159;19;Defender
+Player:Jayden Bogle;160;20;Defender
+Player:Auston Trusty;161;5;Defender
+Player:Vinicius Souza;162;21;Midfield
+Player:Gustavo Hamer;163;8;Midfield
+Player:James MCAtee;164;28;Midfield
+Player:Oliver Norwood;165;16;Midfield
+Player:Cameron Archer;166;10;Forward
+Player:Oliver McBurnie;167;9;Forward 
+Coach:Chris Wilder;168
+Team:Luton Town
+Founded:1885
+Formation:3-4-3
+Player:Thomas Kaminski;171;24;GoalKeeper
+Player:Teden Mengi;172;15;Defender
+Player:Kaboré;173;24;Defender
+Player:Burke;174;16;Defender
+Player:Doughty;175;45;Midfield
+Player:Chong;176;14;Midfield
+Player:Ross Barkley;177;6;Midfield
+Player:Townsend;178;30;Midfield
+Player:Ogbene;179;7;Forward
+Player:Adebayo;180;11;Forward
+Player:Morris;181;9;Forward
+Coach:Rob Edwards;182
+Team:Newcastle United
+Founded:1892
+Formation:4-4-2
+Player:Dúbravka;185;1;GoalKeeper
+Player:Trippier;186;2;Defender
+Player:Schar;187;5;Defender
+Player:Burn;188;33;Defender
+Player:Tino Livramento;189;21;Defender
+Player:Almirón;190;24;Midfield
+Player:Longstaff;191;36;Midfield
+Player:Bruno Guimarães;192;39;Midfield
+Player:Harvey Barnes;193;15;Midfield
+Player:Gordon;194;10;Forward
+Player:Isak;195;14;Forward
+Coach:Eddie Howe;196
+Team:Burnley
+Founded:1882
+Formation:3-4-3
+Player:James Trafford;199;1;GoalKeeper
+Player:Charlie Taylor;200;3;Defender
+Player:Vitinho;201;22;Defender
+Player:Dara O'shea;202;2;Defender
+Player:Josh Brownhill;203;8;Midfield
+Player:Berge;204;16;Midfield
+Player:Gudmundsson;205;7;Midfield
+Player:Cullen;206;24;Midfield
+Player:Zeki Amdouni;207;25;Forward
+Player:Bruun Larsen;208;34;Forward
+Player:Wilson Odobert;209;47;Forward
+Coach:Vincent Kompany;210
+Team:Crystal Palace
+Founded:1905
+Formation:3-4-3
+Player:Sam Johnstone;213;1;GoalKeeper
+Player:Tyrick Mitchell;214;3;Defender
+Player:Joachim Anderson;215;16;Defender
+Player:Chris Richards;216;26;Defender
+Player:Eberechi Eze;217;10;Midfield
+Player:Hughes;218;19;Midfield
+Player:Jeffrey Schlupp;219;15;Midfield
+Player:Jefferson Lerma;220;8;Midfield
+Player:Ayew;221;9;Forward
+Player:Mateta;222;14;Forward
+Player:Édouard;223;22;Forward
+Coach:Steve Parish;224
+Team:Fulham
+Founded:1879
+Formation:3-4-3
+Player:Bernd Leno;227;17;GoalKeeper
+Player:Antonee Robinson;228;33;Defender
+Player:Calvin Bassey;229;3;Defender
+Player:Castagne;230;21;Defender
+Player:Harry Wilson;231;8;Midfield
+Player:Cairney;232;10;Midfield
+Player:Andreas Pereira;233;18;Midfield
+Player:João Palhinha;234;26;Midfield
+Player:Dee Cordova Reid;235;14;Forward
+Player:Willian;236;20;Forward
+Player:Iwobi;237;22;Forward
+Coach:Marco Silva;238
+Team:Brighton & Hove Albion
+Founded:1901
+Formation:3-4-3
+Player:Bart Verbruggen;241;1;GoalKeeper
+Player:Lewis Dunk;242;5;Defender
+Player:Paul van Hecke;243;29;Defender
+Player:Veltman;244;34;Defender
+Player:Pascal GroB;245;13;Midfield
+Player:Gilmour;246;11;Midfield
+Player:Facundo Buonanotte;247;40;Midfield
+Player:Carlos Baleba;248;20;Midfield
+Player:João Pedro;249;9;Forward
+Player:Adingra;250;24;Forward
+Player:Welbeck;251;18;Forward
+Coach:Roberto De Zerbi;251
+Team:Brentford
+Founded:1889
+Formation:4-4-2
+Player:Mark Flekken;255;1;GoalKeeper
+Player:Pinnock;256;5;Defender
+Player:Ajer;257;20;Defender
+Player:Nathan Collins;258;22;Defender
+Player:Mads Roerslev;259;30;Defender
+Player:Norgaard;260;6;Midfield
+Player:Jensen;261;8;Midfield
+Player:Wissa;262;11;Midfield
+Player:Vitaly Janelt;263;27;Midfield
+Player:Neal Maupay;264;7;Forward
+Player:Lewis Potter;265;23;Forward
+Coach:Thomas Frank;266
+Team:Bournemouth
+Founded:1899
+Formation:3-4-3
+Player:Neto;269;1;GoalKeeper 
+Player:Adam Smith;270;15;Defender
+Player:Illia Zabarnyi;271;27;Defender
+Player:Marcos Senesi;272;25;Defender
+Player:Lewis Cook;273;4;Midfield
+Player:Ryan Christie;274;10;Midfield
+Player:Marcus Tavernier;275;16;Midfield
+Player:Philip Billing;276;29;Midfield
+Player:Solanke;277;9;Forward
+Player:Semenyo;278;24;Forward
+Player:Kluivert;279;19;Forward
+Coach:Andoni Iraola;280
