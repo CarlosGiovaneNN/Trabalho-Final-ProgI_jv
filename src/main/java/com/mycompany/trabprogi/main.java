@@ -87,7 +87,7 @@ public class main {
 
         try {
             //LE O ARQUIVO
-            Scanner in = new Scanner(new FileReader("C:/Users/Carlos/Documents/NetBeansProjects/TrabProgI/src/main/java/com/mycompany/trabprogi/Teams.txt"));
+            Scanner in = new Scanner(new FileReader("src/main/java/com/mycompany/trabprogi/Teams.txt"));
 
             while (in.hasNextLine()) {
                 String line = in.nextLine();
